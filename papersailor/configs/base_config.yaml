@@ -15,10 +15,10 @@ num_threads: 1
 results_dir: "results"
 
 # Dataset
-pdf_base_dir: "/Users/melmaphother/Documents/Code/AgenticPaperQA/paper-prepare/sampled_papers"
-output_base_dir: "/Users/melmaphother/Documents/Code/AgenticPaperQA/paper-prepare/sampled_jsons"
-database_dir: "/Users/melmaphother/Documents/Code/AgenticPaperQA/paper-prepare/selected_papers"
+pdf_base_dir: "paperbeacons/sampled_papers"
+output_base_dir: "paperbeacons/sampled_jsons"
+database_dir: "paperbeacons/selected_papers"
 filter_conference: null
 filter_difficulty: null
 filter_qa_type: null
-data_dir: "/Users/melmaphother/Documents/Code/AgenticPaperQA/paper-prepare/qa"
+data_dir: "paperbeacons/qa"
