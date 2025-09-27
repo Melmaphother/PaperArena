@@ -1,0 +1,24 @@
+# Base configuration for Paper QA evaluation
+
+# Model
+model_name: "gpt-4.1-2025-04-14"
+
+# Inference
+temperature: 0.7
+top_p: 0.9
+max_tokens: 4096
+max_steps: 40
+
+# Experiment
+verbosity_level: 1
+num_threads: 1
+results_dir: "results"
+
+# Dataset
+pdf_base_dir: "/Users/melmaphother/Documents/Code/AgenticPaperQA/paper-prepare/sampled_papers"
+output_base_dir: "/Users/melmaphother/Documents/Code/AgenticPaperQA/paper-prepare/sampled_jsons"
+database_dir: "/Users/melmaphother/Documents/Code/AgenticPaperQA/paper-prepare/selected_papers"
+filter_conference: null
+filter_difficulty: null
+filter_qa_type: null
+data_dir: "/Users/melmaphother/Documents/Code/AgenticPaperQA/paper-prepare/qa"
