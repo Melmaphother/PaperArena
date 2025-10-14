@@ -25,8 +25,8 @@
 Existing benchmarks inadequately test LLM agents on realistic scientific tasks. We introduce **PaperArena**, a new **evaluation benchmark** where agents must address complex research questions by reasoning across multiple papers and using tools. Our platform provides agents with tools for **parsing, retrieval, and computation** to synthesize well-grounded answers. Experiments reveal that even advanced agents achieve **only 38.78%** average accuracy and exhibit inefficient tool usage. PaperArena offers a crucial platform for developing more capable agents for **scientific discovery**.
 
 This repository contains the official code for our [paper](https://arxiv.org/abs/2510.10909):
-> PaperArena: PaperArena: An Evaluation Benchmark for Tool-Augmented Agentic Reasoning on Scientific Literature
-> Daoyu Wang, Mingyue Cheng$^*$, Qi Liu, Shuo Yu, Zirui Liu, Ze Guo
+> PaperArena: An Evaluation Benchmark for Tool-Augmented Agentic Reasoning on Scientific Literature
+> Authors: Daoyu Wang, Mingyue Cheng, Qi Liu, Shuo Yu, Zirui Liu, Ze Guo
 
 <details>
 <summary><b>Full Abstract</b></summary>
