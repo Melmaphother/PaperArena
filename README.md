@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
-        🤺 PaperArena: An Evaluation Benchmark for Tool-Augmented <br> Agentic Reasoning on Scientific Literature <br>
-  </h1> 
+        🤺 PaperArena: An Evaluation Benchmark for <br> Tool-Augmented Agentic Reasoning <br> on Scientific Literature <br>
+  </h1>
 </div>
 
 <div align="center">
@@ -42,7 +42,7 @@ Understanding and reasoning on the web-scale scientific literature is a crucial 
 
 ## ✨ Motivation
 <div align="center">
-<img src="assets/motivation.png" width="95%"/>
+<img src="assets/motivation.png" width="100%"/>
 <!-- <p><em>Figure 1: Motivation of the PaperArena.</em></p> -->
 </div>
 
