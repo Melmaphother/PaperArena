@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-        🤺 PaperArena: An Evaluation Benchmark for <br> Tool-Augmented Agentic Reasoning <br> on Scientific Literature <br>
+        🤺 PaperArena: An Evaluation Benchmark for Tool- <br> Augmented Agentic Reasoning on Scientific Literature <br>
   </h1>
 </div>
 
