@@ -8,8 +8,8 @@
   <a href="https://arxiv.org/abs/2510.10909">
     📖 <strong>Paper</strong>
   </a> |
-  <a href="example.com">
-    📊 <strong>Datasets Coming Soon</strong>
+  <a href="https://huggingface.co/datasets/Melmaphother/PaperArena-Data">
+    📊 <strong>Datasets</strong>
   </a>
   <br><br>
   <img src="https://img.shields.io/github/last-commit/Melmaphother/PaperArena?color=green" alt="Last Commit">
@@ -111,7 +111,7 @@ pip install -r requirements.txt
 
 Once the environment is ready, you need to download the PaperArena datasets. The data is available on both Hugging Face and Google Drive for your convenience. Please download the datasets and place them in the appropriate directory within the project structure.
 
-  * **Download from Hugging Face:** [Hugging Face](example.com)
+  * **Download from Hugging Face:** [Hugging Face](https://huggingface.co/datasets/Melmaphother/PaperArena-Data)
   * **Download from Google Drive:** [Google Drive](example.com)
 
 After downloading, please ensure the dataset files are located in the `paperarena/qa` directory.
