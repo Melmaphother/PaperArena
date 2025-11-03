@@ -10,6 +10,9 @@
   </a> |
   <a href="https://huggingface.co/datasets/Melmaphother/PaperArena-Data">
     📊 <strong>Datasets</strong>
+  </a> |
+  <a href="https://paperarena-ai.github.io/">
+    👀 <strong>Project Page</strong>
   </a>
   <br><br>
   <img src="https://img.shields.io/github/last-commit/Melmaphother/PaperArena?color=green" alt="Last Commit">
